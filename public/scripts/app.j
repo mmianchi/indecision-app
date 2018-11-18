@@ -35,6 +35,7 @@ var templateTitle = React.createElement(
 var user = {
   names: "mahshid",
   age: 107
+
 };
 
 function getlocation(location) {
